@@ -1,7 +1,7 @@
 import sys
 
-from Samples.geocoder import get_coordinates, get_ll_span
-from Samples.mapapi_PG import show_map
+from geocoder import get_coordinates, get_ll_span
+from mapapi_PG import show_map
 
 
 def main():
